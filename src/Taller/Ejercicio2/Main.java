@@ -3,6 +3,7 @@ package Taller.Ejercicio2;
 import java.util.Scanner;
 
 public class Main {
+
     public static void comparar(int a, int b){
         if (a > b){
             System.out.println(a + " es mayor que " + b);
