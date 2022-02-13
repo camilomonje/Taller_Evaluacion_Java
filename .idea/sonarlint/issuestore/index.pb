@@ -1,0 +1,25 @@
+
+P
+ src/Taller/Ejercicio10/Main.java,e\5\e5e58457981e24016e791192942c76b1af738755
+O
+src/Taller/Ejercicio3/Main.java,9\0\908628b3b9093ead361cd1fdc69f6160c86f9a30
+O
+src/Taller/Ejercicio1/Main.java,0\e\0ef555b3ccdfcadb1617b272ec3a12bff0b24477
+O
+src/Taller/Ejercicio2/Main.java,d\4\d4a44ea4e9d9c545582bbc67e18ace7afd3bdb7b
+P
+ src/Taller/Ejercicio11/Main.java,3\3\33f9d2c69e6fb14ea20df9cc1c5d2ed2e8edbc81
+P
+ src/Taller/Ejercicio12/Main.java,7\b\7bca6e3d0f70af1bc758f0e3d24bf9434d34c153
+O
+src/Taller/Ejercicio9/Main.java,4\9\499ce3528f3639a54c632b4f2c4b921d84f25d25
+P
+ src/Taller/Ejercicio13/Main.java,2\f\2ff3cd203a98256b7feaeb9be9cca2df7553e920
+P
+ src/Taller/Ejercicio14/Main.java,7\3\7389a34e65771bb01f0bb80349f5e50850c8a3d5
+P
+ src/Taller/Ejercicio15/Main.java,4\e\4e49dfef7095b74e8e97c9dcf1488d9f47d76664
+P
+ src/Taller/Ejercicio16/Main.java,1\c\1c1a3831fafded80d0b0e0dc0ad0d491895ef626
+S
+#src/Taller/Ejercicio16/Persona.java,3\5\3539cc1f0c17ff2902e2bc1735a016346f7c4eb9

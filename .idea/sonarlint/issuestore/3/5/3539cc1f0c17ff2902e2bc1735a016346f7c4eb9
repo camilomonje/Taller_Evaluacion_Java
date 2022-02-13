@@ -1,0 +1,14 @@
+
+h	java:S116	"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ
+g
+java:S1845
+"LRename field "sexo" to prevent any misunderstanding/clash with field "SEXO".(ù‘ãøÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(£¾‹Ñ
+\
+java:S11262"AReplace this if-then-else statement by a single return statement.(ÌŸÏêÿÿÿÿÿ
+?
+java:S2140I")Use "java.util.Random.nextInt()" instead.(ÓÉ‡‹
+M
+java:S1172^"+Remove this unused method parameter "sexo".(Û ä´ÿÿÿÿÿ8Æ¶ÃÖî/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËİºŠùÿÿÿÿ

@@ -1,0 +1,22 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ÓÀå
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹òö²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÇÓûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßôÑ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀËÖ¼
+Q	java:S1255"<This block of commented-out lines of code should be removed.(„õÌá
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(€¤ÓÒşÿÿÿÿ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(¨‡ËT
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ı£Íøÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(”×Üûÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(©°Ã¯
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Àëò¬
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(‘²Š…
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(§˜¡´8”ƒòÖî/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(—ÏœÖ8é¥òÖî/
+<	java:S131N""Add a default case to this switch.(˜ìÙ”şÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+I
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËİºŠùÿÿÿÿ
