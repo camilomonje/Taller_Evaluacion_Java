@@ -22,7 +22,7 @@ public class Main {
         double sumaTelevisiones = 0;
 
         for (int i = 0; i < electrodomestico.length; i++) {
-            
+
             if (electrodomestico[i] instanceof Electrodomestico) {
                 sumaElectrodomesticos += electrodomestico[i].precioFinal();
             }
